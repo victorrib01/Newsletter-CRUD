@@ -1,7 +1,9 @@
 const mongoose = require('mongoose');
 
 const NewsletterSchema = new mongoose.Schema({
+    name: String,
     estabelishment_category: String,
+    title: String,
     message: String,
 });
 
