@@ -1,4 +1,4 @@
-# Newsletter-CRUD
+# FIAP-Vitrine-Newsletter-CRUD
 # REST-API
 
 How to use:
