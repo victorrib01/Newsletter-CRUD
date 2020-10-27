@@ -1,4 +1,4 @@
-# fiap-Vitrine-Newsletter-CRUD
+# fiap-vitrine-newsletter-CRUD
 # REST-API
 
 How to use:
